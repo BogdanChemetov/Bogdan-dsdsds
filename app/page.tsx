@@ -13,7 +13,7 @@ export default function Home() {
 <button
     className="px-4 py-2 text-white bg-transparent rounded-lg duration-500 hover:bg-indigo-700 active:shadow-lg"
 >
-    Button
+    кнопка
 </button>
 
 <button
